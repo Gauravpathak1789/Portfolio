@@ -68,7 +68,7 @@ st.title("Projects")
 
 # Project 1
 st.subheader("🌾✨ Agriculture/Horticulture 🌱🍎 Commodities Price Prediction 📊💹")
-st.image('agripred.png', caption='Agriculture Price Prediction')
+st.image('agripred.png', caption='Agriculture Price Prediction',width=300)
 st.write(
     "Implemented a hybrid machine learning model integrating Random Forest and Prophet to predict the prices of agricultural and horticultural commodities. Improved prediction accuracy and handled both seasonal and non-seasonal data with Flask APIs."
 )
@@ -77,7 +77,7 @@ st.markdown("[GitHub Repo](https://github.com/Gauravpathak1789/https-githubAgric
 
 # Project 2
 st.subheader("🎬 Movie Recommendation System – Find Your Next Favorite Movie! 🍿🚀")
-st.image('movie.png', caption='Movie Recommendation System')
+st.image('movie.png', caption='Movie Recommendation System',width=300)
 st.write(
     "Built using Bag of Words and Similarity Score techniques! Helps users discover new movies based on their interests in just a few clicks."
 )
