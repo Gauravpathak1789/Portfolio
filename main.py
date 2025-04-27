@@ -88,6 +88,6 @@ st.markdown("[GitHub Repo](https://github.com/Gauravpathak1789/Movie-Recommendat
 # Resume Section
 st.title("Resume")
 st.write("Download my latest resume below:")
-st.download_button(label='📥 Download Resume', data=open('resume.pdf', 'rb').read(), file_name='Gaurav_Pathak_Resume.pdf', mime='application/pdf')
+st.download_button(label='📥 Download Resume', data=open('UPDATEDRESUME.pdf', 'rb').read(), file_name='Gaurav_Pathak_Resume.pdf', mime='application/pdf')
 
 
